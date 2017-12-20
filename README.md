@@ -1,12 +1,7 @@
-# MovieRecommender
-MovieRecommender in Java:
-
-  The capstone project based on Coursera specification "Java Programming and Software Engineering Fundamentals"
+  Capstone in "Java Programming and Software Engineering Fundamentals"
   
   Files start with "MovieRunner" are tester classes
   
-  Test data are in the data folder
+  DBs are simulated by two csv files with java i/o
   
-  two additional "jar" files were used for reading and parsing csv files
-  
-  Additional works aimed to bring this Recommender online are ongoing...
+  Please check another repo for extended web application project
